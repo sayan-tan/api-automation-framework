@@ -49,3 +49,8 @@ _Installing Libraries from Requirements.txt_ :
    You can now view the allure-report in the browser with the command –
    
    `allure serve allure-report/`
+
+
+  3) **Let's Connect**
+     ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sayantandsgpta)
+     ![Instagram](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/sayan_ta.n/)
