@@ -52,5 +52,6 @@ _Installing Libraries from Requirements.txt_ :
 
 
   3) **Let's Connect**
-     ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sayantandsgpta)
-     ![Instagram](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/sayan_ta.n/)
+     
+   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sayantandsgpta)
+   - [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com/sayan_ta.n/)
