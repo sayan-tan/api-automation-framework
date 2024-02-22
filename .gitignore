@@ -1,0 +1,12 @@
+/Data/Clients/__pycache__/
+/Data/Models/Requests/__pycache__/
+/Data/Models/__pycache__/
+/Data/__pycache__/
+/Tests/__pycache__/
+/Utils/__pycache__/
+/Utils/api_errors.log
+/__pycache__/
+/assets
+/report.html
+/allure-report
+/database_testing/__pycache__/
